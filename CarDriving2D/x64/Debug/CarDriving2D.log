@@ -1,0 +1,40 @@
+﻿  shader.cpp
+  main.cpp
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\collision.h(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\globject.h(69): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\globject.h(90): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\selfdrivingcar.h(20): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\selfdrivingcar.h(21): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\cardrivinggame.h(150): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\neuralnetwork\src\reinforcementlearning.h(41): warning C4305: '=': truncation from 'double' to 'T'
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\neuralnetwork\src\reinforcementlearning.h(42): warning C4305: '=': truncation from 'double' to 'T'
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\neuralnetwork\src\reinforcementlearning.h(47): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\neuralnetwork\src\reinforcementlearning.h(103): warning C4305: '=': truncation from 'double' to 'T'
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\neuralnetwork\src\reinforcementlearning.h(104): warning C4305: '=': truncation from 'double' to 'T'
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\neuralnetwork\src\reinforcementlearning.h(121): warning C4305: 'argument': truncation from 'double' to 'const T'
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\neuralnetwork\src\reinforcementlearning.h(148): warning C4305: 'argument': truncation from 'double' to 'const T'
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\neuralnetwork\src\reinforcementlearning.h(175): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+  Box2D.cpp
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(53): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(50): note: while compiling class template member function 'glm::vec3 Box2D<double>::getNormal(const glm::vec3 &) const'
+  d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.cpp(23): note: see reference to class template instantiation 'Box2D<double>' being compiled
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(53): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(54): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(54): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(51): warning C4305: 'initializing': truncation from 'double' to 'float'
+  d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(50): note: while compiling class template member function 'glm::vec3 Box2D<float>::getNormal(const glm::vec3 &) const'
+  d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.cpp(22): note: see reference to class template instantiation 'Box2D<float>' being compiled
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(50): note: while compiling class template member function 'glm::vec3 Box2D<int>::getNormal(const glm::vec3 &) const'
+  d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.cpp(21): note: see reference to class template instantiation 'Box2D<int>' being compiled
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(53): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(53): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(54): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(54): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(46): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(39): note: while compiling class template member function 'int Box2D<int>::getSignedDistance(const glm::vec3 &) const'
+  d:\local databases\github\other_visual\2016fallcse2022-master\2016fallcse2022-master\week15 - rl\glfw_examples\cardriving2d\box2d.h(53): note: see reference to function template instantiation 'int Box2D<int>::getSignedDistance(const glm::vec3 &) const' being compiled
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  CarDriving2D.vcxproj -> D:\Local Databases\Github\Other_visual\2016FallCSE2022-master\2016FallCSE2022-master\Week15 - RL\glfw_examples\CarDriving2D\x64\Debug\CarDriving2D.exe
+  CarDriving2D.vcxproj -> D:\Local Databases\Github\Other_visual\2016FallCSE2022-master\2016FallCSE2022-master\Week15 - RL\glfw_examples\CarDriving2D\x64\Debug\CarDriving2D.pdb (Partial PDB)
